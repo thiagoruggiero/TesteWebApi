@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestEaseTest", "RestEaseTest.csproj", "{02729761-B3AF-4275-A39E-6BEB15D4C209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02729761-B3AF-4275-A39E-6BEB15D4C209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02729761-B3AF-4275-A39E-6BEB15D4C209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02729761-B3AF-4275-A39E-6BEB15D4C209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02729761-B3AF-4275-A39E-6BEB15D4C209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C47B90F-18C2-46FC-A885-7165131D54C5}
+	EndGlobalSection
+EndGlobal
